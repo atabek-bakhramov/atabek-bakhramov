@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atabek</h1>
-<h3 align="center">A passionate full stack web developer from Kazakhstan</h3>
+<h3 align="center">A passionate full-stack web developer</h3>
 
 - 🔭 I’m currently working on [online-shop](https://github.com/atabek-bakhramov/online-shop)
 
 - 🌱 I’m currently learning **typescript.js, next.js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react.js**
 
 - 📫 How to reach me **coderonline@icloud.com**
 
