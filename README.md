@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [online-shop](https://github.com/atabek-bakhramov/online-shop)
 
-- 🌱 I’m currently learning **typescript.js, next.js**
+- 🌱 I’m currently learning **redux**
 
 - 💬 Ask me about **react.js**
 
