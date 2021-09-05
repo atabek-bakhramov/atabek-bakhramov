@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atabek</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-- 🔭 I’m currently working on [online-shop](https://github.com/atabek-bakhramov/online-shop)
-
-- 🌱 I’m currently learning **redux**
+- 🔭 I’m currently working on a language learning web application.
 
 - 💬 Ask me about **react.js**
 
