@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atabek</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-- 🔭 I’m currently creating a content for my future language learning web application.
+- 🔭 I’m currently learning Phaser.js, Svelte
 
 - 💬 Ask me about **react.js**
 
