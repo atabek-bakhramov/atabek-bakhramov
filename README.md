@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atabek</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-- 🔭 I’m currently learning **Phaser.js, Svelte**
+- 🔭 I’m currently working on an online game for children using **Phaser.js, Node.js and Svelte**
 
 - 💬 Ask me about **React.js**
 
