@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atabek</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-- 🔭 I’ve recently started working on a web app for administration of WereldWijd using **React.js, Node.js and MySQL** and Personal Website Using **Svelte**
+- 🔭 I’ve recently started working on a web app for administration of WereldWijd using **React.js, Node.js and MySQL** and Personal Website
 
 - 💬 Ask me about **React.js**
 
